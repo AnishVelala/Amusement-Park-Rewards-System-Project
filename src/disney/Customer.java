@@ -1,5 +1,6 @@
 package disney;
 //base class
+//Testing Github commit
 public class Customer {
 	
 	private String firstName;
